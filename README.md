@@ -12,14 +12,10 @@ This app is created with:
 * Axios version: 1.2.1
 
 
-## Acknowledgment (LE PONES ESTO SI ALGUIEN QUE TE AYUDO A ESCRIBIR/ SOURCES
+## Acknowledgment 
 
 This app is based in the ["How To Make An API Request in ReactJS With Axios and Fetch"] (https://www.youtube.com/watch?v=rpg1jOvGCtQ) video tutorial from [PedroTech] (https://www.youtube.com/@PedroTechnologies)
 
-
-This project was made following the main structure and concepts from the video tutorial 
-
-This app is inspired BY Android app tutorial by [@eericon](https://www.eericon.github.io/post/timer-android)
 
 ## License
 
