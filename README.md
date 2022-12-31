@@ -1,7 +1,5 @@
 
-# Titulo de la app
-
-Jokes API Data-fetching App
+# Jokes API Data-fetching App
 
 ![Joke api render](https://user-images.githubusercontent.com/96319139/210152681-0b1172f6-77a0-4fc8-b5a7-4bda04efd11d.png)
 
